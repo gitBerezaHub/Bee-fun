@@ -1,7 +1,7 @@
 const config = {
   width: 800,
   height: 600,
-  scene: [Scene1, Scene2],
+  scene: [SceneStart, SceneMain],
   pixelArt: true,
 }
 
